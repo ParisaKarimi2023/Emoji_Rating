@@ -1,2 +1,2 @@
 # Emoji_Rating
-Emoji Rating
+The Emoji Rating System is a modern and user-friendly application designed to collect user feedback using emojis instead of traditional numeric or text-based ratings. Emojis provide a quick, intuitive, and visually expressive way for users to communicate their satisfaction or emotions. This project demonstrates how emotional feedback can be captured digitally using simple software techniques. The system is applicable in areas such as product reviews, service feedback, user experience evaluation, and online surveys.
